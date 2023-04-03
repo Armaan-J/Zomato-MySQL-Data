@@ -1,4 +1,4 @@
-#Zomato Case Study Data Analysis using MySQL
+*Zomato Case Study Data Analysis using MySQL*
 This repository contains the code and documentation for a data analysis project on the Zomato dataset using MySQL. The project aims to explore and understand various aspects of the Zomato dataset, including:
 
 The distribution of restaurants across various locations and cuisines
